@@ -1,0 +1,2 @@
+# LIDAR_LD06_python_loder
+LDROBOT社から提供されているLidarのLD06(LDS06)をpythonから読み込んでみました。
